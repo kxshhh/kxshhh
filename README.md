@@ -1,5 +1,4 @@
-It's me khushboo
-Here to create & learn 
+It's me khushboo & I'm here to create & learn ....
 
 <!---
 kxshhh/kxshhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
